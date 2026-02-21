@@ -1,20 +1,34 @@
 # Marker for Creators Companion — Releases
 
-This repository hosts official releases of **Marker for Creators Companion** for Windows.
+This repository hosts official releases of **Marker for Creators Companion** for **Windows** and **macOS**.
 
 ## Download
 
-Go to the [**Releases**](https://github.com/ichbinjona/marker-for-creators-companion-releases/releases) page and download the latest `.exe` file.
+Go to the [**Releases**](https://github.com/ichbinjona/marker-for-creators-companion-releases/releases) page and download the latest version for your platform:
+
+| Platform | File |
+|----------|------|
+| Windows  | `Marker for Creators Companion.exe` |
+| macOS    | `Marker for Creators Companion.zip` (contains .app) |
 
 ## Installation
 
+### Windows
 1. Download `Marker for Creators Companion.exe` from the latest release
 2. Place it anywhere on your computer
 3. Double-click to run — no installation needed
 
+### macOS
+1. Download `Marker for Creators Companion.zip` from the latest release
+2. Unzip to get the `.app` bundle
+3. Drag it to your Applications folder (optional)
+4. Double-click to run
+
+> If macOS shows a security warning, right-click the app and choose **Open**, then confirm.
+
 ## Auto-Updates
 
-The app checks for updates automatically on startup. When a new version is available, the orange banner at the top will turn green and show **"Update available — click to install"**. Click it and the app will update itself.
+The app checks for updates automatically on startup. When a new version is available, the orange banner at the top will turn green and show **"Update available — click to install"**. Click it and the app will download and install the update for your platform automatically.
 
 ## About
 
