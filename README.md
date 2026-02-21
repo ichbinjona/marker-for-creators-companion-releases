@@ -8,21 +8,20 @@ Go to the [**Releases**](https://github.com/ichbinjona/marker-for-creators-compa
 
 | Platform | File |
 |----------|------|
-| Windows  | `Marker for Creators Companion.exe` |
-| macOS    | `Marker for Creators Companion.zip` (contains .app) |
+| Windows  | `Marker-for-Creators-Companion-Win-x.x.x.exe` |
+| macOS    | `Marker-for-Creators-Companion-Mac-x.x.x.dmg` |
 
 ## Installation
 
 ### Windows
-1. Download `Marker for Creators Companion.exe` from the latest release
+1. Download `Marker-for-Creators-Companion-Win-x.x.x.exe` from the latest release
 2. Place it anywhere on your computer
 3. Double-click to run — no installation needed
 
 ### macOS
-1. Download `Marker for Creators Companion.zip` from the latest release
-2. Unzip to get the `.app` bundle
-3. Drag it to your Applications folder (optional)
-4. Double-click to run
+1. Download `Marker-for-Creators-Companion-Mac-x.x.x.dmg` from the latest release
+2. Open the `.dmg` and drag the app to your Applications folder
+3. Double-click to run
 
 > If macOS shows a security warning, right-click the app and choose **Open**, then confirm.
 
