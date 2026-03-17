@@ -15,19 +15,18 @@ Go to the [**Releases**](https://github.com/ichbinjona/marker-for-creators-compa
 
 ### Windows
 1. Download `Marker-for-Creators-Companion-Win-x.x.x.exe` from the latest release
-2. Place it anywhere on your computer
-3. Double-click to run — no installation needed
+2. Windows might show a warning, this is due to the app not having many downloads to date. You can click on open anyways (somethimes hidden in a drop down menu).
+3. Install the app
+4. Double-click to run 
 
 ### macOS
 1. Download `Marker-for-Creators-Companion-Mac-x.x.x.dmg` from the latest release
 2. Open the `.dmg` and drag the app to your Applications folder
 3. Double-click to run
 
-> If macOS shows a security warning, right-click the app and choose **Open**, then confirm.
-
 ## Auto-Updates
 
-The app checks for updates automatically on startup. When a new version is available, the orange banner at the top will turn green and show **"Update available — click to install"**. Click it and the app will download and install the update for your platform automatically.
+The app checks for updates automatically on startup. When a new version is available, the orange banner at the top will turn green and show **"Update available – click to install"**. Click it and the app will download and install the update for your platform automatically.
 
 ## About
 
